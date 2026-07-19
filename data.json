@@ -1,10 +1,12 @@
 {
   "NUGGET": {
+    "username": "Akuma",
     "verified": true,
     "dev": true,
     "user": true
   },
   "NEWBIE": {
+    "username": "dummmy",
     "verified": false,
     "dev": false,
     "user": true
