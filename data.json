@@ -1,0 +1,12 @@
+{
+  "NUGGET": {
+    "verified": true,
+    "dev": true,
+    "user": true
+  },
+  "NEWBIE": {
+    "verified": false,
+    "dev": false,
+    "user": true
+  }
+}
